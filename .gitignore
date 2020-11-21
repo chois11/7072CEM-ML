@@ -7,3 +7,5 @@
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/7072CEM-ML.iml
 /.ipynb_checkpoints/
+.DS_Store
+winemag_cleaned.csv
